@@ -44,33 +44,41 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- ![alt text](<Screenshot (9).png>)
+![alt text](<Screenshot (23).png>)
 
 
 b.  KCL:
- ![alt text](<Screenshot (10).png>)
+ ![alt text](<Screenshot (25).png>)
 
 Calculation:
 
 a.   KVL:
- 
+ ![alt text](<WhatsApp Image 2026-10-21 at 10.17.34 AM.jpeg>)
 
 
 b.  KCL:
-
+![alt text](<WhatsApp Image 2026-10-21 at 10.17.34 AM (1)-1.jpeg>)
+![alt text](<WhatsApp Image 2026-10-21 at 10.17.35 AM.jpeg>)
 
 
 
 Tabulation:
 
 a.   KVL:
- 
+ ![alt text](<WhatsApp Image 2026-10-21 at 10.25.01 AM.jpeg>)
 
 
 b.  KCL:
+![alt text](<WhatsApp Image 2026-10-21 at 10.30.18 AM.jpeg>)
 
 
 
 RESULT:
+
+KVL:
+![alt text](<Screenshot (24).png>)
+
+KCL:
+![alt text](<Screenshot (26).png>)
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
