@@ -44,11 +44,11 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+ ![alt text](<Screenshot (9).png>)
 
 
 b.  KCL:
- 
+ ![alt text](<Screenshot (10).png>)
 
 Calculation:
 
